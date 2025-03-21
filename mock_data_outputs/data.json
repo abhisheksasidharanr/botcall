@@ -1,0 +1,172 @@
+{
+    "farmers": [
+        {
+            "national_id": "N543456",
+            "name": "Abhishek",
+            "state": "Kerala",
+            "crop": "Rubber",
+            "yield_qty": "500",
+            "eudr_status": "pass"
+        },
+        {
+            "national_id": "N123456",
+            "name": "John",
+            "state": "Perez",
+            "crop": "coffee",
+            "yield_qty": 200,
+            "eudr_status": "fail"
+        },
+        {
+            "national_id": "N123456",
+            "name": "Arun",
+            "state": "Jammu and Kashmir",
+            "crop": "Rubber",
+            "yield_qty": 1500,
+            "eudr_status": "fail"
+        },
+        {
+            "national_id": "N123756",
+            "name": "Abhishek",
+            "state": "Karnataka",
+            "crop": "Coffee",
+            "yield_qty": 200,
+            "eudr_status": "fail"
+        },
+        {
+            "national_id": "N123732",
+            "name": "Haji",
+            "state": "Kerala",
+            "crop": "Caramel",
+            "yield_qty": 200,
+            "eudr_status": "pass"
+        },
+        {
+            "national_id": "N356007",
+            "name": "Aaron",
+            "state": "Kerala",
+            "crop": "Coffee",
+            "yield_qty": 200,
+            "eudr_status": "fail"
+        },
+        {
+            "national_id": "N136789",
+            "name": "James",
+            "state": "Kerala",
+            "crop": "cotton",
+            "yield_qty": 200,
+            "eudr_status": "pass"
+        },
+        {
+            "national_id": "N001350",
+            "name": "Ajay",
+            "state": "Kerala",
+            "crop": "Coffee",
+            "yield_qty": 500,
+            "eudr_status": "fail"
+        },
+        {
+            "national_id": "N567890",
+            "name": "Satish",
+            "state": "Kerala",
+            "crop": "coffee",
+            "yield_qty": 500,
+            "eudr_status": "fail"
+        },
+        {
+            "national_id": "N123520",
+            "name": "Raju",
+            "state": "Kerala",
+            "crop": "Coffee",
+            "yield_qty": 200,
+            "eudr_status": "Under Review"
+        },
+        {
+            "national_id": "N000000",
+            "name": "Akshay",
+            "state": "Kerala",
+            "crop": "Coffee",
+            "yield_qty": 200,
+            "eudr_status": "Under Review"
+        },
+        {
+            "national_id": "N123452",
+            "name": "Rakesh",
+            "state": "Maharashtra",
+            "crop": "cotton",
+            "yield_qty": 1000,
+            "eudr_status": "Under Review"
+        },
+        {
+            "national_id": "N123789",
+            "name": "Roy",
+            "state": "Madhya Pradesh",
+            "crop": "Cotton",
+            "yield_qty": 100000,
+            "eudr_status": "Under Review"
+        },
+        {
+            "national_id": "N123456",
+            "name": "Amit",
+            "state": "Karnataka",
+            "crop": "Rice",
+            "yield_qty": 10,
+            "eudr_status": "Under Review"
+        },
+        {
+            "national_id": "N123456",
+            "name": "John",
+            "state": "Perez",
+            "crop": "coffee",
+            "yield_qty": 200,
+            "eudr_status": "Under Review"
+        },
+        {
+            "national_id": "N123456",
+            "name": "John",
+            "state": "Perez",
+            "crop": "coffee",
+            "yield_qty": 200,
+            "eudr_status": "Under Review"
+        },
+        {
+            "national_id": "N123450",
+            "name": "Ajay",
+            "state": "Uttar Pradesh",
+            "crop": "Coffee",
+            "yield_qty": 500,
+            "eudr_status": "Under Review"
+        },
+        {
+            "national_id": "N123456",
+            "name": "John",
+            "state": "Perez",
+            "crop": "coffee",
+            "yield_qty": 200,
+            "eudr_status": "Under Review"
+        },
+        {
+            "national_id": "N123348",
+            "name": "Abhishek",
+            "state": "Kerala",
+            "crop": "Coffee",
+            "yield_qty": 500,
+            "eudr_status": "Under Review"
+        },
+        {
+            "national_id": "N145678",
+            "name": "Akshay",
+            "state": "Gujarat",
+            "crop": "Rubber",
+            "yield_qty": 1000,
+            "eudr_status": "Under Review"
+        },
+        {
+            "national_id": "N125678",
+            "name": "Shibukumar",
+            "state": "Kerala",
+            "crop": "Cotton",
+            "yield_qty": 1000,
+            "eudr_status": "Under Review"
+        }
+    ]
+}
